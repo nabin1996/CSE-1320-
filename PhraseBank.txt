@@ -1,0 +1,8 @@
+/*Nabin Shrestha 1001746226 */
+char *PhraseBank[] = {"2013|Best Original Song|Let It Go!", "1977|Best Original Score|Star Wars", "1993|Best Makeup and Hairstyling|Mrs. Doubtfire",
+			"1981|Best Visual Effects|Raiders of the Lost Ark", "1943|Best Picture|Casablanca",
+			"2014|Best Actor|Tom Hanks", "2018|Best Original Song|Let It Go!",
+			"1976|Best Original Score|Star Wars", "1993|Best Makeup and Hairstyling|Mrs. Doubtfire", "2020|Best Nepali movie| Maicha chwaak che",""};
+
+
+
